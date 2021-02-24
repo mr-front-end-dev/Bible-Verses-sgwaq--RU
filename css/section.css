@@ -56,6 +56,18 @@
   color: hsl(180, 100%, 45%);
 }
 
+.section__span--coral--dark {
+  color: hsl(16, 100%, 55%);
+}
+
+.section__span--coral {
+  color: hsl(16, 100%, 66%);
+}
+
+.section__span--coral--light {
+  color: hsl(16, 100%, 77%);
+}
+
 .section__video--paragraph {
   width: 100%;
   text-align: center;
