@@ -48,6 +48,10 @@
   margin: 5px;
 }
 
+.section__span--lightslategray {
+  color: hsl(210, 14%, 53%);
+}
+
 .section__span--aqua {
   color: hsl(180, 100%, 35%);
 }
