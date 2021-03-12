@@ -39,15 +39,6 @@
   text-decoration: none;
 }
 
-.section__button--underscore {
-  color:hsl(0, 0%, 100%);
-  background-color: hsl(180, 25%, 35%);
-  border-style: none;
-  font-size: 14px;
-  padding: 8px;
-  margin: 5px;
-}
-
 .section__span--lightslategray {
   color: hsl(210, 14%, 53%);
 }
